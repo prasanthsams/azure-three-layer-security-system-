@@ -149,20 +149,6 @@ Database health status
 
 
 
----
-
-🧠 Example Azure Subscription Info
-
-Parameter	Example Value
-
-Subscription Name	Azure for Students
-Subscription ID	b2e9e440-2b5d-4a4b-8b35-d8a48ac84f47
-Resource Group	SecureDB-Group
-Location	East US
-
-
-
----
 
 📈 Future Enhancements
 
