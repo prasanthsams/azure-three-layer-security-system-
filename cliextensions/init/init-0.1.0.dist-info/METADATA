@@ -1,0 +1,34 @@
+Metadata-Version: 2.0
+Name: init
+Version: 0.1.0
+Summary: Microsoft Azure Command-Line Tools Init Extension
+Home-page: https://github.com/Azure/azure-cli-extensions/tree/master/src/init
+Author: Microsoft Corporation
+Author-email: azpycli@microsoft.com
+License: MIT
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: System Administrators
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: License :: OSI Approved :: MIT License
+
+Microsoft Azure CLI 'init' Extension
+==========================================
+
+This package is for the 'init' extension.
+i.e. 'az init'
+
+.. :changelog:
+
+Release History
+===============
+
+0.1.0
+++++++
+* Initial release.
+

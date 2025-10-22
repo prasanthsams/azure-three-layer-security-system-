@@ -1,0 +1,384 @@
+4356 : 2025-09-24 23:46:40,558 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\LENOVO\.azure]. Cache directory [C:\Users\LENOVO\.azure\telemetry\20250924234639822].
+4356 : 2025-09-24 23:46:40,559 : INFO : telemetry.records : 1 cache files to upload.
+4356 : 2025-09-24 23:46:40,696 : INFO : telemetry.records : Processed file C:\Users\LENOVO\.azure\telemetry\20250924234639822\cache into 1 records.
+4356 : 2025-09-24 23:46:40,698 : INFO : telemetry.records : Remove directory C:\Users\LENOVO\.azure\telemetry\20250924234639822
+4356 : 2025-09-24 23:46:41,345 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+4356 : 2025-09-24 23:46:41,346 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+4356 : 2025-09-24 23:46:42,711 : INFO : telemetry.sender : Sending 3830 bytes
+4356 : 2025-09-24 23:46:42,712 : INFO : telemetry.sender : Finish uploading in 1.364835 seconds.
+4548 : 2025-09-24 23:51:11,748 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\LENOVO\.azure]. Cache directory [C:\Users\LENOVO\.azure\telemetry\20250924235109491].
+4548 : 2025-09-24 23:51:11,770 : INFO : telemetry.records : 1 cache files to upload.
+4548 : 2025-09-24 23:51:13,962 : INFO : telemetry.records : Processed file C:\Users\LENOVO\.azure\telemetry\20250924235109491\cache into 1 records.
+4548 : 2025-09-24 23:51:13,965 : INFO : telemetry.records : Remove directory C:\Users\LENOVO\.azure\telemetry\20250924235109491
+4548 : 2025-09-24 23:51:14,642 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+4548 : 2025-09-24 23:51:14,642 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+4548 : 2025-09-24 23:51:16,805 : INFO : telemetry.sender : Sending 3831 bytes
+4548 : 2025-09-24 23:51:16,805 : INFO : telemetry.sender : Finish uploading in 2.162476 seconds.
+3380 : 2025-09-24 23:57:15,257 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\LENOVO\.azure]. Cache directory [C:\Users\LENOVO\.azure\telemetry\20250924235714308].
+3380 : 2025-09-24 23:57:15,259 : INFO : telemetry.records : 1 cache files to upload.
+3380 : 2025-09-24 23:57:15,305 : INFO : telemetry.records : Processed file C:\Users\LENOVO\.azure\telemetry\20250924235714308\cache into 1 records.
+3380 : 2025-09-24 23:57:15,307 : INFO : telemetry.records : Remove directory C:\Users\LENOVO\.azure\telemetry\20250924235714308
+3380 : 2025-09-24 23:57:15,451 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+3380 : 2025-09-24 23:57:15,451 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+4084 : 2025-09-24 23:57:16,430 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\LENOVO\.azure]. Cache directory [C:\Users\LENOVO\.azure\telemetry\20250924235715461].
+4084 : 2025-09-24 23:57:16,431 : INFO : telemetry.records : 1 cache files to upload.
+4084 : 2025-09-24 23:57:16,458 : INFO : telemetry.records : Processed file C:\Users\LENOVO\.azure\telemetry\20250924235715461\cache into 1 records.
+4084 : 2025-09-24 23:57:16,460 : INFO : telemetry.records : Remove directory C:\Users\LENOVO\.azure\telemetry\20250924235715461
+4084 : 2025-09-24 23:57:16,632 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+4084 : 2025-09-24 23:57:16,632 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+3380 : 2025-09-24 23:57:16,854 : INFO : telemetry.sender : Sending 3950 bytes
+3380 : 2025-09-24 23:57:16,854 : INFO : telemetry.sender : Finish uploading in 1.402941 seconds.
+4084 : 2025-09-24 23:57:17,904 : INFO : telemetry.sender : Sending 4124 bytes
+4084 : 2025-09-24 23:57:17,905 : INFO : telemetry.sender : Finish uploading in 1.271903 seconds.
+7984 : 2025-09-25 00:01:25,625 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\LENOVO\.azure]. Cache directory [C:\Users\LENOVO\.azure\telemetry\20250925000124172].
+7984 : 2025-09-25 00:01:25,626 : INFO : telemetry.records : 1 cache files to upload.
+7984 : 2025-09-25 00:01:25,671 : INFO : telemetry.records : Processed file C:\Users\LENOVO\.azure\telemetry\20250925000124172\cache into 1 records.
+7984 : 2025-09-25 00:01:25,673 : INFO : telemetry.records : Remove directory C:\Users\LENOVO\.azure\telemetry\20250925000124172
+7984 : 2025-09-25 00:01:25,783 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+7984 : 2025-09-25 00:01:25,784 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+7984 : 2025-09-25 00:01:27,048 : INFO : telemetry.sender : Sending 4077 bytes
+7984 : 2025-09-25 00:01:27,049 : INFO : telemetry.sender : Finish uploading in 1.264302 seconds.
+9932 : 2025-09-25 00:01:46,152 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\LENOVO\.azure]. Cache directory [C:\Users\LENOVO\.azure\telemetry\20250925000145201].
+9932 : 2025-09-25 00:01:46,153 : INFO : telemetry.records : 1 cache files to upload.
+9932 : 2025-09-25 00:01:46,175 : INFO : telemetry.records : Processed file C:\Users\LENOVO\.azure\telemetry\20250925000145201\cache into 1 records.
+9932 : 2025-09-25 00:01:46,176 : INFO : telemetry.records : Remove directory C:\Users\LENOVO\.azure\telemetry\20250925000145201
+9932 : 2025-09-25 00:01:46,265 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+9932 : 2025-09-25 00:01:46,266 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+9932 : 2025-09-25 00:01:47,497 : INFO : telemetry.sender : Sending 4013 bytes
+9932 : 2025-09-25 00:01:47,497 : INFO : telemetry.sender : Finish uploading in 1.230942 seconds.
+7980 : 2025-09-25 00:02:24,105 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\LENOVO\.azure]. Cache directory [C:\Users\LENOVO\.azure\telemetry\20250925000221027].
+7980 : 2025-09-25 00:02:24,106 : INFO : telemetry.records : 1 cache files to upload.
+7980 : 2025-09-25 00:02:24,137 : INFO : telemetry.records : Processed file C:\Users\LENOVO\.azure\telemetry\20250925000221027\cache into 1 records.
+7980 : 2025-09-25 00:02:24,138 : INFO : telemetry.records : Remove directory C:\Users\LENOVO\.azure\telemetry\20250925000221027
+7980 : 2025-09-25 00:02:24,237 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+7980 : 2025-09-25 00:02:24,237 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+7980 : 2025-09-25 00:02:25,524 : INFO : telemetry.sender : Sending 4664 bytes
+7980 : 2025-09-25 00:02:25,525 : INFO : telemetry.sender : Finish uploading in 1.286936 seconds.
+9504 : 2025-09-25 00:33:02,495 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\LENOVO\.azure]. Cache directory [C:\Users\LENOVO\.azure\telemetry\20250925003300594].
+9504 : 2025-09-25 00:33:02,527 : INFO : telemetry.records : 1 cache files to upload.
+9504 : 2025-09-25 00:33:02,799 : INFO : telemetry.records : Processed file C:\Users\LENOVO\.azure\telemetry\20250925003300594\cache into 1 records.
+9504 : 2025-09-25 00:33:02,800 : INFO : telemetry.records : Remove directory C:\Users\LENOVO\.azure\telemetry\20250925003300594
+9504 : 2025-09-25 00:33:04,674 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+9504 : 2025-09-25 00:33:04,674 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+9504 : 2025-09-25 00:33:06,217 : INFO : telemetry.sender : Sending 4650 bytes
+9504 : 2025-09-25 00:33:06,218 : INFO : telemetry.sender : Finish uploading in 1.542928 seconds.
+6540 : 2025-09-25 01:16:10,968 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\LENOVO\.azure]. Cache directory [C:\Users\LENOVO\.azure\telemetry\20250925011608086].
+6540 : 2025-09-25 01:16:10,987 : INFO : telemetry.records : 1 cache files to upload.
+6540 : 2025-09-25 01:16:12,367 : INFO : telemetry.records : Processed file C:\Users\LENOVO\.azure\telemetry\20250925011608086\cache into 1 records.
+6540 : 2025-09-25 01:16:12,369 : INFO : telemetry.records : Remove directory C:\Users\LENOVO\.azure\telemetry\20250925011608086
+6540 : 2025-09-25 01:16:17,186 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+6540 : 2025-09-25 01:16:17,201 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+6540 : 2025-09-25 01:16:22,606 : INFO : telemetry.sender : Sending 4574 bytes
+6540 : 2025-09-25 01:16:22,607 : INFO : telemetry.sender : Finish uploading in 5.405272 seconds.
+8968 : 2025-09-25 01:19:32,579 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\LENOVO\.azure]. Cache directory [C:\Users\LENOVO\.azure\telemetry\20250925011931255].
+8968 : 2025-09-25 01:19:32,590 : INFO : telemetry.records : 1 cache files to upload.
+8968 : 2025-09-25 01:19:32,801 : INFO : telemetry.records : Processed file C:\Users\LENOVO\.azure\telemetry\20250925011931255\cache into 1 records.
+8968 : 2025-09-25 01:19:32,803 : INFO : telemetry.records : Remove directory C:\Users\LENOVO\.azure\telemetry\20250925011931255
+8968 : 2025-09-25 01:19:32,958 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+8968 : 2025-09-25 01:19:32,958 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+8968 : 2025-09-25 01:19:34,882 : INFO : telemetry.sender : Sending 3899 bytes
+8968 : 2025-09-25 01:19:34,883 : INFO : telemetry.sender : Finish uploading in 1.924370 seconds.
+4824 : 2025-09-25 01:19:55,463 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\LENOVO\.azure]. Cache directory [C:\Users\LENOVO\.azure\telemetry\20250925011954163].
+4824 : 2025-09-25 01:19:55,464 : INFO : telemetry.records : 1 cache files to upload.
+4824 : 2025-09-25 01:19:55,706 : INFO : telemetry.records : Processed file C:\Users\LENOVO\.azure\telemetry\20250925011954163\cache into 1 records.
+4824 : 2025-09-25 01:19:55,708 : INFO : telemetry.records : Remove directory C:\Users\LENOVO\.azure\telemetry\20250925011954163
+4824 : 2025-09-25 01:19:55,842 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+4824 : 2025-09-25 01:19:55,842 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+4824 : 2025-09-25 01:19:57,127 : INFO : telemetry.sender : Sending 4015 bytes
+4824 : 2025-09-25 01:19:57,127 : INFO : telemetry.sender : Finish uploading in 1.284921 seconds.
+2232 : 2025-09-25 10:08:00,301 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\LENOVO\.azure]. Cache directory [C:\Users\LENOVO\.azure\telemetry\20250925100758565].
+2232 : 2025-09-25 10:08:00,321 : INFO : telemetry.records : 1 cache files to upload.
+2232 : 2025-09-25 10:08:00,789 : INFO : telemetry.records : Processed file C:\Users\LENOVO\.azure\telemetry\20250925100758565\cache into 1 records.
+2232 : 2025-09-25 10:08:00,792 : INFO : telemetry.records : Remove directory C:\Users\LENOVO\.azure\telemetry\20250925100758565
+2232 : 2025-09-25 10:08:01,342 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+2232 : 2025-09-25 10:08:01,343 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+2232 : 2025-09-25 10:08:05,232 : INFO : telemetry.sender : Sending 4664 bytes
+2232 : 2025-09-25 10:08:05,232 : INFO : telemetry.sender : Finish uploading in 3.888518 seconds.
+10092 : 2025-09-25 10:18:20,859 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\LENOVO\.azure]. Cache directory [C:\Users\LENOVO\.azure\telemetry\20250925101819932].
+10092 : 2025-09-25 10:18:20,860 : INFO : telemetry.records : 1 cache files to upload.
+10092 : 2025-09-25 10:18:20,888 : INFO : telemetry.records : Processed file C:\Users\LENOVO\.azure\telemetry\20250925101819932\cache into 1 records.
+10092 : 2025-09-25 10:18:20,889 : INFO : telemetry.records : Remove directory C:\Users\LENOVO\.azure\telemetry\20250925101819932
+10092 : 2025-09-25 10:18:21,025 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+10092 : 2025-09-25 10:18:21,025 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+10092 : 2025-09-25 10:18:22,658 : INFO : telemetry.sender : Sending 3993 bytes
+10092 : 2025-09-25 10:18:22,658 : INFO : telemetry.sender : Finish uploading in 1.633081 seconds.
+2652 : 2025-09-25 10:41:39,145 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\LENOVO\.azure]. Cache directory [C:\Users\LENOVO\.azure\telemetry\20250925104136852].
+2652 : 2025-09-25 10:41:39,179 : INFO : telemetry.records : 1 cache files to upload.
+2652 : 2025-09-25 10:41:40,455 : INFO : telemetry.records : Processed file C:\Users\LENOVO\.azure\telemetry\20250925104136852\cache into 1 records.
+2652 : 2025-09-25 10:41:40,458 : INFO : telemetry.records : Remove directory C:\Users\LENOVO\.azure\telemetry\20250925104136852
+2652 : 2025-09-25 10:41:40,648 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+2652 : 2025-09-25 10:41:40,648 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+2652 : 2025-09-25 10:41:46,149 : INFO : telemetry.sender : Sending 3896 bytes
+2652 : 2025-09-25 10:41:46,149 : INFO : telemetry.sender : Finish uploading in 5.501221 seconds.
+5016 : 2025-09-25 10:44:27,195 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\LENOVO\.azure]. Cache directory [C:\Users\LENOVO\.azure\telemetry\20250925104426175].
+5016 : 2025-09-25 10:44:27,196 : INFO : telemetry.records : 1 cache files to upload.
+5016 : 2025-09-25 10:44:27,472 : INFO : telemetry.records : Processed file C:\Users\LENOVO\.azure\telemetry\20250925104426175\cache into 1 records.
+5016 : 2025-09-25 10:44:27,474 : INFO : telemetry.records : Remove directory C:\Users\LENOVO\.azure\telemetry\20250925104426175
+5016 : 2025-09-25 10:44:27,590 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+5016 : 2025-09-25 10:44:27,590 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+5016 : 2025-09-25 10:44:28,934 : INFO : telemetry.sender : Sending 4650 bytes
+5016 : 2025-09-25 10:44:28,935 : INFO : telemetry.sender : Finish uploading in 1.344106 seconds.
+5300 : 2025-09-25 10:45:22,101 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\LENOVO\.azure]. Cache directory [C:\Users\LENOVO\.azure\telemetry\20250925104521276].
+5300 : 2025-09-25 10:45:22,102 : INFO : telemetry.records : 1 cache files to upload.
+5300 : 2025-09-25 10:45:22,151 : INFO : telemetry.records : Processed file C:\Users\LENOVO\.azure\telemetry\20250925104521276\cache into 1 records.
+5300 : 2025-09-25 10:45:22,153 : INFO : telemetry.records : Remove directory C:\Users\LENOVO\.azure\telemetry\20250925104521276
+5300 : 2025-09-25 10:45:22,242 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+5300 : 2025-09-25 10:45:22,243 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+5300 : 2025-09-25 10:45:23,501 : INFO : telemetry.sender : Sending 4074 bytes
+5300 : 2025-09-25 10:45:23,501 : INFO : telemetry.sender : Finish uploading in 1.258457 seconds.
+5508 : 2025-09-25 10:52:39,386 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\LENOVO\.azure]. Cache directory [C:\Users\LENOVO\.azure\telemetry\20250925105238129].
+5508 : 2025-09-25 10:52:39,403 : INFO : telemetry.records : 1 cache files to upload.
+5508 : 2025-09-25 10:52:39,637 : INFO : telemetry.records : Processed file C:\Users\LENOVO\.azure\telemetry\20250925105238129\cache into 1 records.
+5508 : 2025-09-25 10:52:39,640 : INFO : telemetry.records : Remove directory C:\Users\LENOVO\.azure\telemetry\20250925105238129
+5508 : 2025-09-25 10:52:39,745 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+5508 : 2025-09-25 10:52:39,745 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+5508 : 2025-09-25 10:52:41,127 : INFO : telemetry.sender : Sending 3983 bytes
+5508 : 2025-09-25 10:52:41,128 : INFO : telemetry.sender : Finish uploading in 1.381833 seconds.
+1172 : 2025-09-25 11:01:54,372 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\LENOVO\.azure]. Cache directory [C:\Users\LENOVO\.azure\telemetry\20250925110149448].
+1172 : 2025-09-25 11:01:54,408 : INFO : telemetry.records : 1 cache files to upload.
+1172 : 2025-09-25 11:01:59,342 : INFO : telemetry.records : Processed file C:\Users\LENOVO\.azure\telemetry\20250925110149448\cache into 1 records.
+1172 : 2025-09-25 11:01:59,364 : INFO : telemetry.records : Remove directory C:\Users\LENOVO\.azure\telemetry\20250925110149448
+1172 : 2025-09-25 11:01:59,862 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+1172 : 2025-09-25 11:01:59,862 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+1172 : 2025-09-25 11:02:04,377 : INFO : telemetry.sender : Sending 3900 bytes
+1172 : 2025-09-25 11:02:04,377 : INFO : telemetry.sender : Finish uploading in 4.514417 seconds.
+5256 : 2025-09-25 11:04:54,138 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\LENOVO\.azure]. Cache directory [C:\Users\LENOVO\.azure\telemetry\20250925110452673].
+5256 : 2025-09-25 11:04:54,139 : INFO : telemetry.records : 1 cache files to upload.
+5256 : 2025-09-25 11:04:54,745 : INFO : telemetry.records : Processed file C:\Users\LENOVO\.azure\telemetry\20250925110452673\cache into 1 records.
+5256 : 2025-09-25 11:04:54,749 : INFO : telemetry.records : Remove directory C:\Users\LENOVO\.azure\telemetry\20250925110452673
+5256 : 2025-09-25 11:04:55,025 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+5256 : 2025-09-25 11:04:55,026 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+5256 : 2025-09-25 11:04:56,364 : INFO : telemetry.sender : Sending 4015 bytes
+5256 : 2025-09-25 11:04:56,365 : INFO : telemetry.sender : Finish uploading in 1.337979 seconds.
+7468 : 2025-09-25 11:06:55,074 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\LENOVO\.azure]. Cache directory [C:\Users\LENOVO\.azure\telemetry\20250925110643878].
+7468 : 2025-09-25 11:06:55,078 : INFO : telemetry.records : 1 cache files to upload.
+7468 : 2025-09-25 11:06:55,857 : INFO : telemetry.records : Processed file C:\Users\LENOVO\.azure\telemetry\20250925110643878\cache into 1 records.
+7468 : 2025-09-25 11:06:55,864 : INFO : telemetry.records : Remove directory C:\Users\LENOVO\.azure\telemetry\20250925110643878
+7468 : 2025-09-25 11:06:56,406 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+7468 : 2025-09-25 11:06:56,407 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+7468 : 2025-09-25 11:06:57,807 : INFO : telemetry.sender : Sending 3828 bytes
+7468 : 2025-09-25 11:06:57,808 : INFO : telemetry.sender : Finish uploading in 1.398785 seconds.
+3444 : 2025-09-25 11:17:11,127 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\LENOVO\.azure]. Cache directory [C:\Users\LENOVO\.azure\telemetry\20250925111709245].
+3444 : 2025-09-25 11:17:11,172 : INFO : telemetry.records : 1 cache files to upload.
+3444 : 2025-09-25 11:17:12,494 : INFO : telemetry.records : Processed file C:\Users\LENOVO\.azure\telemetry\20250925111709245\cache into 1 records.
+3444 : 2025-09-25 11:17:12,496 : INFO : telemetry.records : Remove directory C:\Users\LENOVO\.azure\telemetry\20250925111709245
+3444 : 2025-09-25 11:17:13,619 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+3444 : 2025-09-25 11:17:13,619 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+3444 : 2025-09-25 11:17:15,553 : INFO : telemetry.sender : Sending 4650 bytes
+3444 : 2025-09-25 11:17:15,553 : INFO : telemetry.sender : Finish uploading in 1.933731 seconds.
+10916 : 2025-09-25 11:18:05,031 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\LENOVO\.azure]. Cache directory [C:\Users\LENOVO\.azure\telemetry\20250925111803421].
+10916 : 2025-09-25 11:18:05,033 : INFO : telemetry.records : 1 cache files to upload.
+10916 : 2025-09-25 11:18:05,184 : INFO : telemetry.records : Processed file C:\Users\LENOVO\.azure\telemetry\20250925111803421\cache into 1 records.
+10916 : 2025-09-25 11:18:05,187 : INFO : telemetry.records : Remove directory C:\Users\LENOVO\.azure\telemetry\20250925111803421
+10916 : 2025-09-25 11:18:05,379 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+10916 : 2025-09-25 11:18:05,379 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+10916 : 2025-09-25 11:18:06,699 : INFO : telemetry.sender : Sending 4074 bytes
+10916 : 2025-09-25 11:18:06,699 : INFO : telemetry.sender : Finish uploading in 1.319279 seconds.
+10644 : 2025-09-25 11:20:47,022 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\LENOVO\.azure]. Cache directory [C:\Users\LENOVO\.azure\telemetry\20250925112045928].
+10644 : 2025-09-25 11:20:47,035 : INFO : telemetry.records : 1 cache files to upload.
+10644 : 2025-09-25 11:20:47,521 : INFO : telemetry.records : Processed file C:\Users\LENOVO\.azure\telemetry\20250925112045928\cache into 1 records.
+10644 : 2025-09-25 11:20:47,524 : INFO : telemetry.records : Remove directory C:\Users\LENOVO\.azure\telemetry\20250925112045928
+10644 : 2025-09-25 11:20:47,758 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+10644 : 2025-09-25 11:20:47,758 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+10644 : 2025-09-25 11:20:49,250 : INFO : telemetry.sender : Sending 3898 bytes
+10644 : 2025-09-25 11:20:49,250 : INFO : telemetry.sender : Finish uploading in 1.491734 seconds.
+3532 : 2025-09-25 11:21:03,899 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\LENOVO\.azure]. Cache directory [C:\Users\LENOVO\.azure\telemetry\20250925112102751].
+3532 : 2025-09-25 11:21:03,900 : INFO : telemetry.records : 1 cache files to upload.
+3532 : 2025-09-25 11:21:04,186 : INFO : telemetry.records : Processed file C:\Users\LENOVO\.azure\telemetry\20250925112102751\cache into 1 records.
+3532 : 2025-09-25 11:21:04,189 : INFO : telemetry.records : Remove directory C:\Users\LENOVO\.azure\telemetry\20250925112102751
+3532 : 2025-09-25 11:21:04,313 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+3532 : 2025-09-25 11:21:04,314 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+3532 : 2025-09-25 11:21:05,690 : INFO : telemetry.sender : Sending 4015 bytes
+3532 : 2025-09-25 11:21:05,690 : INFO : telemetry.sender : Finish uploading in 1.376139 seconds.
+3868 : 2025-09-25 22:21:44,033 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\LENOVO\.azure]. Cache directory [C:\Users\LENOVO\.azure\telemetry\20250925222142758].
+3868 : 2025-09-25 22:21:44,055 : INFO : telemetry.records : 1 cache files to upload.
+3868 : 2025-09-25 22:21:44,532 : INFO : telemetry.records : Processed file C:\Users\LENOVO\.azure\telemetry\20250925222142758\cache into 1 records.
+3868 : 2025-09-25 22:21:44,534 : INFO : telemetry.records : Remove directory C:\Users\LENOVO\.azure\telemetry\20250925222142758
+3868 : 2025-09-25 22:21:45,088 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+3868 : 2025-09-25 22:21:45,089 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+3868 : 2025-09-25 22:21:46,398 : INFO : telemetry.sender : Sending 4650 bytes
+3868 : 2025-09-25 22:21:46,398 : INFO : telemetry.sender : Finish uploading in 1.309231 seconds.
+4288 : 2025-09-25 22:24:42,507 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\LENOVO\.azure]. Cache directory [C:\Users\LENOVO\.azure\telemetry\20250925222441231].
+4288 : 2025-09-25 22:24:42,518 : INFO : telemetry.records : 1 cache files to upload.
+4288 : 2025-09-25 22:24:42,952 : INFO : telemetry.records : Processed file C:\Users\LENOVO\.azure\telemetry\20250925222441231\cache into 1 records.
+4288 : 2025-09-25 22:24:42,955 : INFO : telemetry.records : Remove directory C:\Users\LENOVO\.azure\telemetry\20250925222441231
+4288 : 2025-09-25 22:24:43,082 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+4288 : 2025-09-25 22:24:43,082 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+4288 : 2025-09-25 22:24:44,996 : INFO : telemetry.sender : Sending 4074 bytes
+4288 : 2025-09-25 22:24:44,996 : INFO : telemetry.sender : Finish uploading in 1.913388 seconds.
+7908 : 2025-09-25 22:38:08,840 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\LENOVO\.azure]. Cache directory [C:\Users\LENOVO\.azure\telemetry\20250925223805565].
+7908 : 2025-09-25 22:38:08,945 : INFO : telemetry.records : 1 cache files to upload.
+7908 : 2025-09-25 22:38:14,835 : INFO : telemetry.records : Processed file C:\Users\LENOVO\.azure\telemetry\20250925223805565\cache into 1 records.
+7908 : 2025-09-25 22:38:14,870 : INFO : telemetry.records : Remove directory C:\Users\LENOVO\.azure\telemetry\20250925223805565
+7908 : 2025-09-25 22:38:15,263 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+7908 : 2025-09-25 22:38:15,263 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+7908 : 2025-09-25 22:38:17,974 : INFO : telemetry.sender : Sending 4076 bytes
+7908 : 2025-09-25 22:38:17,974 : INFO : telemetry.sender : Finish uploading in 2.710485 seconds.
+11228 : 2025-09-25 22:53:58,079 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\LENOVO\.azure]. Cache directory [C:\Users\LENOVO\.azure\telemetry\20250925225355579].
+11228 : 2025-09-25 22:53:58,091 : INFO : telemetry.records : 1 cache files to upload.
+11228 : 2025-09-25 22:53:58,254 : INFO : telemetry.records : Processed file C:\Users\LENOVO\.azure\telemetry\20250925225355579\cache into 1 records.
+11228 : 2025-09-25 22:53:58,256 : INFO : telemetry.records : Remove directory C:\Users\LENOVO\.azure\telemetry\20250925225355579
+11228 : 2025-09-25 22:54:00,780 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+11228 : 2025-09-25 22:54:00,780 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+11228 : 2025-09-25 22:54:02,095 : INFO : telemetry.sender : Sending 4155 bytes
+11228 : 2025-09-25 22:54:02,096 : INFO : telemetry.sender : Finish uploading in 1.314416 seconds.
+3280 : 2025-09-26 00:35:07,438 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\LENOVO\.azure]. Cache directory [C:\Users\LENOVO\.azure\telemetry\20250926003504468].
+3280 : 2025-09-26 00:35:07,465 : INFO : telemetry.records : 1 cache files to upload.
+3280 : 2025-09-26 00:35:09,998 : INFO : telemetry.records : Processed file C:\Users\LENOVO\.azure\telemetry\20250926003504468\cache into 1 records.
+3280 : 2025-09-26 00:35:09,999 : INFO : telemetry.records : Remove directory C:\Users\LENOVO\.azure\telemetry\20250926003504468
+3280 : 2025-09-26 00:35:13,090 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+3280 : 2025-09-26 00:35:13,090 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+3280 : 2025-09-26 00:35:14,656 : INFO : telemetry.sender : Sending 3899 bytes
+3280 : 2025-09-26 00:35:14,657 : INFO : telemetry.sender : Finish uploading in 1.565789 seconds.
+7224 : 2025-09-26 00:35:29,322 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\LENOVO\.azure]. Cache directory [C:\Users\LENOVO\.azure\telemetry\20250926003528055].
+7224 : 2025-09-26 00:35:29,323 : INFO : telemetry.records : 1 cache files to upload.
+7224 : 2025-09-26 00:35:29,414 : INFO : telemetry.records : Processed file C:\Users\LENOVO\.azure\telemetry\20250926003528055\cache into 1 records.
+7224 : 2025-09-26 00:35:29,462 : INFO : telemetry.records : Remove directory C:\Users\LENOVO\.azure\telemetry\20250926003528055
+7224 : 2025-09-26 00:35:29,590 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+7224 : 2025-09-26 00:35:29,590 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+7224 : 2025-09-26 00:35:30,904 : INFO : telemetry.sender : Sending 4015 bytes
+7224 : 2025-09-26 00:35:30,904 : INFO : telemetry.sender : Finish uploading in 1.313773 seconds.
+8416 : 2025-09-26 09:59:52,194 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\LENOVO\.azure]. Cache directory [C:\Users\LENOVO\.azure\telemetry\20250926095937885].
+8416 : 2025-09-26 09:59:52,247 : INFO : telemetry.records : 1 cache files to upload.
+8416 : 2025-09-26 09:59:53,603 : INFO : telemetry.records : Processed file C:\Users\LENOVO\.azure\telemetry\20250926095937885\cache into 1 records.
+8416 : 2025-09-26 09:59:53,625 : INFO : telemetry.records : Remove directory C:\Users\LENOVO\.azure\telemetry\20250926095937885
+8416 : 2025-09-26 09:59:55,397 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+8416 : 2025-09-26 09:59:55,398 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+8416 : 2025-09-26 09:59:57,424 : INFO : telemetry.sender : Sending 4652 bytes
+8416 : 2025-09-26 09:59:57,424 : INFO : telemetry.sender : Finish uploading in 2.025818 seconds.
+10220 : 2025-09-26 10:14:46,129 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\LENOVO\.azure]. Cache directory [C:\Users\LENOVO\.azure\telemetry\20250926101445076].
+10220 : 2025-09-26 10:14:46,146 : INFO : telemetry.records : 1 cache files to upload.
+10220 : 2025-09-26 10:14:46,958 : INFO : telemetry.records : Processed file C:\Users\LENOVO\.azure\telemetry\20250926101445076\cache into 1 records.
+10220 : 2025-09-26 10:14:46,960 : INFO : telemetry.records : Remove directory C:\Users\LENOVO\.azure\telemetry\20250926101445076
+10220 : 2025-09-26 10:14:47,155 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+10220 : 2025-09-26 10:14:47,155 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+10220 : 2025-09-26 10:14:48,589 : INFO : telemetry.sender : Sending 4649 bytes
+10220 : 2025-09-26 10:14:48,590 : INFO : telemetry.sender : Finish uploading in 1.434146 seconds.
+10308 : 2025-09-26 10:53:28,666 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\LENOVO\.azure]. Cache directory [C:\Users\LENOVO\.azure\telemetry\20250926105326733].
+10308 : 2025-09-26 10:53:28,761 : INFO : telemetry.records : 1 cache files to upload.
+10308 : 2025-09-26 10:53:30,165 : INFO : telemetry.records : Processed file C:\Users\LENOVO\.azure\telemetry\20250926105326733\cache into 1 records.
+10308 : 2025-09-26 10:53:30,169 : INFO : telemetry.records : Remove directory C:\Users\LENOVO\.azure\telemetry\20250926105326733
+10308 : 2025-09-26 10:53:31,596 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+10308 : 2025-09-26 10:53:31,596 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+10308 : 2025-09-26 10:53:33,256 : INFO : telemetry.sender : Sending 4197 bytes
+10308 : 2025-09-26 10:53:33,257 : INFO : telemetry.sender : Finish uploading in 1.660252 seconds.
+7512 : 2025-09-26 13:31:56,640 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\LENOVO\.azure]. Cache directory [C:\Users\LENOVO\.azure\telemetry\20250926133151908].
+7512 : 2025-09-26 13:31:56,676 : INFO : telemetry.records : 1 cache files to upload.
+7512 : 2025-09-26 13:31:58,096 : INFO : telemetry.records : Processed file C:\Users\LENOVO\.azure\telemetry\20250926133151908\cache into 1 records.
+7512 : 2025-09-26 13:31:58,127 : INFO : telemetry.records : Remove directory C:\Users\LENOVO\.azure\telemetry\20250926133151908
+7512 : 2025-09-26 13:31:58,665 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+7512 : 2025-09-26 13:31:58,665 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+7512 : 2025-09-26 13:32:00,603 : INFO : telemetry.sender : Sending 3901 bytes
+7512 : 2025-09-26 13:32:00,603 : INFO : telemetry.sender : Finish uploading in 1.937382 seconds.
+10912 : 2025-09-26 13:32:21,852 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\LENOVO\.azure]. Cache directory [C:\Users\LENOVO\.azure\telemetry\20250926133219665].
+10912 : 2025-09-26 13:32:21,853 : INFO : telemetry.records : 1 cache files to upload.
+10912 : 2025-09-26 13:32:22,058 : INFO : telemetry.records : Processed file C:\Users\LENOVO\.azure\telemetry\20250926133219665\cache into 1 records.
+10912 : 2025-09-26 13:32:22,060 : INFO : telemetry.records : Remove directory C:\Users\LENOVO\.azure\telemetry\20250926133219665
+10912 : 2025-09-26 13:32:22,306 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+10912 : 2025-09-26 13:32:22,306 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+10912 : 2025-09-26 13:32:24,185 : INFO : telemetry.sender : Sending 4016 bytes
+10912 : 2025-09-26 13:32:24,186 : INFO : telemetry.sender : Finish uploading in 1.879267 seconds.
+7660 : 2025-09-30 11:04:09,239 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\LENOVO\.azure]. Cache directory [C:\Users\LENOVO\.azure\telemetry\20250930110404869].
+7660 : 2025-09-30 11:04:09,256 : INFO : telemetry.records : 1 cache files to upload.
+7660 : 2025-09-30 11:04:11,284 : INFO : telemetry.records : Processed file C:\Users\LENOVO\.azure\telemetry\20250930110404869\cache into 1 records.
+7660 : 2025-09-30 11:04:11,290 : INFO : telemetry.records : Remove directory C:\Users\LENOVO\.azure\telemetry\20250930110404869
+7660 : 2025-09-30 11:04:11,719 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+7660 : 2025-09-30 11:04:11,720 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+7660 : 2025-09-30 11:04:14,047 : INFO : telemetry.sender : Sending 4651 bytes
+7660 : 2025-09-30 11:04:14,047 : INFO : telemetry.sender : Finish uploading in 2.327133 seconds.
+7996 : 2025-09-30 11:15:39,836 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\LENOVO\.azure]. Cache directory [C:\Users\LENOVO\.azure\telemetry\20250930111538655].
+7996 : 2025-09-30 11:15:39,837 : INFO : telemetry.records : 1 cache files to upload.
+7996 : 2025-09-30 11:15:41,348 : INFO : telemetry.records : Processed file C:\Users\LENOVO\.azure\telemetry\20250930111538655\cache into 1 records.
+7996 : 2025-09-30 11:15:41,351 : INFO : telemetry.records : Remove directory C:\Users\LENOVO\.azure\telemetry\20250930111538655
+7996 : 2025-09-30 11:15:41,749 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+7996 : 2025-09-30 11:15:41,749 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+7996 : 2025-09-30 11:15:42,473 : ERROR : telemetry.sender : Upload failed. OSError: <urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>
+7996 : 2025-09-30 11:15:42,474 : INFO : telemetry.sender : Finish uploading in 0.723669 seconds.
+11100 : 2025-09-30 11:17:06,564 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\LENOVO\.azure]. Cache directory [C:\Users\LENOVO\.azure\telemetry\20250930111705364].
+11100 : 2025-09-30 11:17:06,565 : INFO : telemetry.records : 1 cache files to upload.
+11100 : 2025-09-30 11:17:06,713 : INFO : telemetry.records : Processed file C:\Users\LENOVO\.azure\telemetry\20250930111705364\cache into 1 records.
+11100 : 2025-09-30 11:17:06,715 : INFO : telemetry.records : Remove directory C:\Users\LENOVO\.azure\telemetry\20250930111705364
+11100 : 2025-09-30 11:17:06,810 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+11100 : 2025-09-30 11:17:06,810 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+11100 : 2025-09-30 11:17:13,390 : INFO : telemetry.sender : Sending 3993 bytes
+11100 : 2025-09-30 11:17:13,390 : INFO : telemetry.sender : Finish uploading in 6.580088 seconds.
+10020 : 2025-09-30 11:17:21,113 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\LENOVO\.azure]. Cache directory [C:\Users\LENOVO\.azure\telemetry\20250930111719903].
+10020 : 2025-09-30 11:17:21,114 : INFO : telemetry.records : 1 cache files to upload.
+10020 : 2025-09-30 11:17:21,264 : INFO : telemetry.records : Processed file C:\Users\LENOVO\.azure\telemetry\20250930111719903\cache into 1 records.
+10020 : 2025-09-30 11:17:21,266 : INFO : telemetry.records : Remove directory C:\Users\LENOVO\.azure\telemetry\20250930111719903
+10020 : 2025-09-30 11:17:21,374 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+10020 : 2025-09-30 11:17:21,374 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+10020 : 2025-09-30 11:17:23,454 : INFO : telemetry.sender : Sending 4015 bytes
+10020 : 2025-09-30 11:17:23,454 : INFO : telemetry.sender : Finish uploading in 2.054745 seconds.
+10900 : 2025-10-09 19:28:03,966 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\LENOVO\.azure]. Cache directory [C:\Users\LENOVO\.azure\telemetry\20251009192801414].
+10900 : 2025-10-09 19:28:04,269 : INFO : telemetry.records : 1 cache files to upload.
+10900 : 2025-10-09 19:28:06,435 : INFO : telemetry.records : Processed file C:\Users\LENOVO\.azure\telemetry\20251009192801414\cache into 1 records.
+10900 : 2025-10-09 19:28:06,439 : INFO : telemetry.records : Remove directory C:\Users\LENOVO\.azure\telemetry\20251009192801414
+10900 : 2025-10-09 19:28:14,062 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+10900 : 2025-10-09 19:28:14,063 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+10900 : 2025-10-09 19:28:16,585 : INFO : telemetry.sender : Sending 4651 bytes
+10900 : 2025-10-09 19:28:16,586 : INFO : telemetry.sender : Finish uploading in 2.521924 seconds.
+4792 : 2025-10-09 20:35:01,910 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\LENOVO\.azure]. Cache directory [C:\Users\LENOVO\.azure\telemetry\20251009203458610].
+4792 : 2025-10-09 20:35:01,933 : INFO : telemetry.records : 1 cache files to upload.
+4792 : 2025-10-09 20:35:02,772 : INFO : telemetry.records : Processed file C:\Users\LENOVO\.azure\telemetry\20251009203458610\cache into 1 records.
+4792 : 2025-10-09 20:35:02,774 : INFO : telemetry.records : Remove directory C:\Users\LENOVO\.azure\telemetry\20251009203458610
+4792 : 2025-10-09 20:35:04,665 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+4792 : 2025-10-09 20:35:04,665 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+4792 : 2025-10-09 20:35:05,903 : INFO : telemetry.sender : Sending 3900 bytes
+4792 : 2025-10-09 20:35:05,903 : INFO : telemetry.sender : Finish uploading in 1.237149 seconds.
+9672 : 2025-10-09 20:36:29,222 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\LENOVO\.azure]. Cache directory [C:\Users\LENOVO\.azure\telemetry\20251009203627870].
+9672 : 2025-10-09 20:36:29,223 : INFO : telemetry.records : 1 cache files to upload.
+9672 : 2025-10-09 20:36:29,599 : INFO : telemetry.records : Processed file C:\Users\LENOVO\.azure\telemetry\20251009203627870\cache into 1 records.
+9672 : 2025-10-09 20:36:29,600 : INFO : telemetry.records : Remove directory C:\Users\LENOVO\.azure\telemetry\20251009203627870
+9672 : 2025-10-09 20:36:29,710 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+9672 : 2025-10-09 20:36:29,711 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+9672 : 2025-10-09 20:36:31,796 : INFO : telemetry.sender : Sending 4016 bytes
+9672 : 2025-10-09 20:36:31,796 : INFO : telemetry.sender : Finish uploading in 2.085093 seconds.
+13008 : 2025-10-11 11:44:01,032 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\LENOVO\.azure]. Cache directory [C:\Users\LENOVO\.azure\telemetry\20251011114359158].
+13008 : 2025-10-11 11:44:01,035 : INFO : telemetry.records : 1 cache files to upload.
+13008 : 2025-10-11 11:44:02,297 : INFO : telemetry.records : Processed file C:\Users\LENOVO\.azure\telemetry\20251011114359158\cache into 1 records.
+13008 : 2025-10-11 11:44:02,299 : INFO : telemetry.records : Remove directory C:\Users\LENOVO\.azure\telemetry\20251011114359158
+13008 : 2025-10-11 11:44:03,410 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+13008 : 2025-10-11 11:44:03,410 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+13008 : 2025-10-11 11:44:05,054 : INFO : telemetry.sender : Sending 4651 bytes
+13008 : 2025-10-11 11:44:05,055 : INFO : telemetry.sender : Finish uploading in 1.643838 seconds.
+10664 : 2025-10-11 11:45:44,921 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\LENOVO\.azure]. Cache directory [C:\Users\LENOVO\.azure\telemetry\20251011114543737].
+10664 : 2025-10-11 11:45:44,923 : INFO : telemetry.records : 1 cache files to upload.
+10664 : 2025-10-11 11:45:44,983 : INFO : telemetry.records : Processed file C:\Users\LENOVO\.azure\telemetry\20251011114543737\cache into 1 records.
+10664 : 2025-10-11 11:45:44,985 : INFO : telemetry.records : Remove directory C:\Users\LENOVO\.azure\telemetry\20251011114543737
+10664 : 2025-10-11 11:45:45,138 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+10664 : 2025-10-11 11:45:45,138 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+10664 : 2025-10-11 11:45:46,206 : INFO : telemetry.sender : Sending 3898 bytes
+10664 : 2025-10-11 11:45:46,206 : INFO : telemetry.sender : Finish uploading in 1.067049 seconds.
+3996 : 2025-10-11 11:46:11,326 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\LENOVO\.azure]. Cache directory [C:\Users\LENOVO\.azure\telemetry\20251011114609666].
+3996 : 2025-10-11 11:46:11,327 : INFO : telemetry.records : 1 cache files to upload.
+3996 : 2025-10-11 11:46:11,420 : INFO : telemetry.records : Processed file C:\Users\LENOVO\.azure\telemetry\20251011114609666\cache into 1 records.
+3996 : 2025-10-11 11:46:11,421 : INFO : telemetry.records : Remove directory C:\Users\LENOVO\.azure\telemetry\20251011114609666
+3996 : 2025-10-11 11:46:11,602 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+3996 : 2025-10-11 11:46:11,602 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+3996 : 2025-10-11 11:46:12,863 : INFO : telemetry.sender : Sending 4015 bytes
+3996 : 2025-10-11 11:46:12,864 : INFO : telemetry.sender : Finish uploading in 1.260344 seconds.
+5472 : 2025-10-15 23:35:40,153 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\LENOVO\.azure]. Cache directory [C:\Users\LENOVO\.azure\telemetry\20251015233536219].
+5472 : 2025-10-15 23:35:40,167 : INFO : telemetry.records : 1 cache files to upload.
+5472 : 2025-10-15 23:35:40,834 : INFO : telemetry.records : Processed file C:\Users\LENOVO\.azure\telemetry\20251015233536219\cache into 1 records.
+5472 : 2025-10-15 23:35:40,836 : INFO : telemetry.records : Remove directory C:\Users\LENOVO\.azure\telemetry\20251015233536219
+5472 : 2025-10-15 23:35:41,281 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+5472 : 2025-10-15 23:35:41,282 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+5472 : 2025-10-15 23:35:42,817 : INFO : telemetry.sender : Sending 4651 bytes
+5472 : 2025-10-15 23:35:42,817 : INFO : telemetry.sender : Finish uploading in 1.535047 seconds.
+2588 : 2025-10-16 00:41:26,206 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\LENOVO\.azure]. Cache directory [C:\Users\LENOVO\.azure\telemetry\20251016004123747].
+2588 : 2025-10-16 00:41:26,207 : INFO : telemetry.records : 1 cache files to upload.
+2588 : 2025-10-16 00:41:26,825 : INFO : telemetry.records : Processed file C:\Users\LENOVO\.azure\telemetry\20251016004123747\cache into 1 records.
+2588 : 2025-10-16 00:41:26,827 : INFO : telemetry.records : Remove directory C:\Users\LENOVO\.azure\telemetry\20251016004123747
+2588 : 2025-10-16 00:41:27,664 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+2588 : 2025-10-16 00:41:27,664 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+2588 : 2025-10-16 00:41:29,128 : INFO : telemetry.sender : Sending 3899 bytes
+2588 : 2025-10-16 00:41:29,128 : INFO : telemetry.sender : Finish uploading in 1.463610 seconds.
+10124 : 2025-10-16 00:43:31,737 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\LENOVO\.azure]. Cache directory [C:\Users\LENOVO\.azure\telemetry\20251016004330191].
+10124 : 2025-10-16 00:43:31,746 : INFO : telemetry.records : 1 cache files to upload.
+10124 : 2025-10-16 00:43:31,838 : INFO : telemetry.records : Processed file C:\Users\LENOVO\.azure\telemetry\20251016004330191\cache into 1 records.
+10124 : 2025-10-16 00:43:31,887 : INFO : telemetry.records : Remove directory C:\Users\LENOVO\.azure\telemetry\20251016004330191
+10124 : 2025-10-16 00:43:31,990 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+10124 : 2025-10-16 00:43:31,991 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+10124 : 2025-10-16 00:43:33,741 : INFO : telemetry.sender : Sending 4016 bytes
+10124 : 2025-10-16 00:43:33,742 : INFO : telemetry.sender : Finish uploading in 1.750628 seconds.

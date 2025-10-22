@@ -1,0 +1,11 @@
+[cloud]
+name = AzureCloud
+
+[core]
+output = table
+only_show_errors = false
+error_recommendation = on
+no_color = false
+disable_progress_bar = false
+first_run = yes
+

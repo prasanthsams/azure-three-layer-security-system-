@@ -1,0 +1,2 @@
+CMD-LOG-LINE-BEGIN 10812 | 2025-09-25 22:37:56,045 | INFO | az_command_data_logger | command args: account show --query {} -o {}
+CMD-LOG-LINE-BEGIN 10812 | 2025-09-25 22:37:56,354 | INFO | az_command_data_logger | exit code: 0

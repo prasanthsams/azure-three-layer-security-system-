@@ -1,0 +1,2 @@
+CMD-LOG-LINE-BEGIN 1992 | 2025-09-26 00:34:35,973 | INFO | az_command_data_logger | command args: logout
+CMD-LOG-LINE-BEGIN 1992 | 2025-09-26 00:35:02,547 | INFO | az_command_data_logger | exit code: 0

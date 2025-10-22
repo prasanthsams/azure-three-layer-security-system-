@@ -1,0 +1,2 @@
+CMD-LOG-LINE-BEGIN 9604 | 2025-09-26 07:30:58,026 | INFO | az_command_data_logger | command args: login
+CMD-LOG-LINE-BEGIN 9604 | 2025-09-26 09:59:22,543 | INFO | az_command_data_logger | exit code: 0

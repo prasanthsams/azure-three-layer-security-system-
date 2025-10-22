@@ -1,0 +1,2 @@
+CMD-LOG-LINE-BEGIN 596 | 2025-09-25 22:53:40,251 | INFO | az_command_data_logger | command args: account list-locations -o {}
+CMD-LOG-LINE-BEGIN 596 | 2025-09-25 22:53:53,661 | INFO | az_command_data_logger | exit code: 0

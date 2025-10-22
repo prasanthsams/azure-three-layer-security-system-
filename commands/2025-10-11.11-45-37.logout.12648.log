@@ -1,0 +1,2 @@
+CMD-LOG-LINE-BEGIN 12648 | 2025-10-11 11:45:37,034 | INFO | az_command_data_logger | command args: logout
+CMD-LOG-LINE-BEGIN 12648 | 2025-10-11 11:45:43,402 | INFO | az_command_data_logger | exit code: 0

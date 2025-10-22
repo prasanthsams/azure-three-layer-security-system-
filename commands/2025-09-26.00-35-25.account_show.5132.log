@@ -1,0 +1,3 @@
+CMD-LOG-LINE-BEGIN 5132 | 2025-09-26 00:35:25,334 | INFO | az_command_data_logger | command args: account show
+CMD-LOG-LINE-BEGIN 5132 | 2025-09-26 00:35:27,745 | ERROR | az_command_data_logger | Please run 'az login' to setup account.
+CMD-LOG-LINE-BEGIN 5132 | 2025-09-26 00:35:27,746 | INFO | az_command_data_logger | exit code: 1
