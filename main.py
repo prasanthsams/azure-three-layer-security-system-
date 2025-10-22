@@ -7,8 +7,8 @@ from azure.mgmt.monitor import MonitorManagementClient
 # -----------------------------
 # STEP 1: Azure Authentication & Setup
 # -----------------------------
-tenant_id = "b9d4939e-7121-4471-a669-b0083b9c9749"
-subscription_id = "6849b10f-591a-469c-b7ce-1ae37bf2e47c"
+tenant_id = "your_tenant_id"
+subscription_id = "your_subscription_id"
 resource_group_name = "SecurityRG"
 location = "eastasia"
 
@@ -17,7 +17,7 @@ location = "eastasia"
 # The METRICS  from THAT resource, not the policy itself.
 # You must replace this with the actual Resource ID of your Application Gateway.
 # For example: "/scomeubscriptions/.../providers/Microsoft.Network/applicationGateways/myAppGateway"
-PROTECTED_RESOURCE_ID = f"/subscriptions/{subscription_id}/resourceGroups/{resource_group_name}/providers/Microsoft.Network/applicationGateways/MYWAYPOLICY"
+PROTECTED_RESOURCE_ID = f"/subscriptions/{subscription_id}/resourceGroups/{resource_group_name}/providers/Microsoft.Network/applicationGateways/"give_your_applicationgateway_name"
 
 credential = InteractiveBrowserCredential(tenant_id=tenant_id)
 
